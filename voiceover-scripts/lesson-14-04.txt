@@ -1,0 +1,1 @@
+Each little box in the grid is called a cell. The columns use letters across the top, and the rows use numbers down the side.

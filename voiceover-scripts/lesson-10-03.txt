@@ -1,0 +1,1 @@
+First we choose the text. Put the pointer just before the word, hold the left mouse button down, and slide across it. The word turns blue — that means it is selected.

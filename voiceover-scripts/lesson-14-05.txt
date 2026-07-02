@@ -1,0 +1,1 @@
+So the box in the very top-left corner is called A1 — column A, row 1. Every cell has a name like this.

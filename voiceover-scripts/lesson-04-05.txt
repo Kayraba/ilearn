@@ -1,0 +1,1 @@
+The Space bar makes a gap between words. And if we make a mistake, the Backspace key removes the last letter. Mistakes are completely fine.

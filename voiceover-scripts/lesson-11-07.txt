@@ -1,0 +1,1 @@
+Last is the letter A with a coloured bar under it. Click it to change the colour of your word. Remember the rule: choose the word first, then change it.

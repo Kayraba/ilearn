@@ -1,0 +1,1 @@
+Now drag to the right, and let go. The column stretches wider, and every word fits. That is how we widen a column whenever text is cut off.

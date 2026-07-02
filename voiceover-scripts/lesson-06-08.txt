@@ -1,0 +1,1 @@
+Here is one useful thing to watch for. Closing without saving can lose new work. Always save first, then close. If it happens, pause, reset, and try again calmly.

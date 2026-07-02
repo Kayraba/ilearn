@@ -1,0 +1,20 @@
+Excel: build a tidy table
+=========================
+
+01. Lesson 15: Excel: build a tidy table. I will guide you through it one step at a time.
+
+02. In this lesson, we build a tidy Excel table. We will add headings, type simple data, make the headings stand out, widen a column, and show prices as money.
+
+03. Click cell A1, at the very top-left. Type your first heading, Item, then press Enter to drop down to the cell below.
+
+04. Type your list down the column — bread rolls, orange juice, tea bags. Notice the long words get cut off, because column A is too narrow.
+
+05. To make it wider, move the mouse up to the line between the A and the B, at the top. The pointer changes to a double arrow. Hold the left button down on that line.
+
+06. Now drag to the right, and let go. The column stretches wider, and every word fits. That is how we widen a column whenever text is cut off.
+
+07. When you start the activities, they will follow the same order as this lesson. First, you do a warm-up: Pick something useful: snacks and prices, bus times, chores, attendance or weekly spending. Then you answer quick checks, so we know the key words make sense. Next, you practise the real computer skill: Create headings in row 1, then enter at least five rows of simple data. You may also type a short answer, for example: Type a useful table heading. At the end, you finish with a stretch or reflection: Enter simple prices and apply currency formatting. Discuss why money formatting helps. Take one activity at a time. If you need help, ask staff, then try the next step yourself.
+
+08. Here is one useful thing to watch for. If a word looks cut off, the column is just too narrow — widen it, do not delete the word. If it happens, pause, reset, and try again calmly.
+
+09. Excellent. Headings, data underneath, and prices shown as money — a clear table anyone can read. Now it is your turn. Scroll down to the activities and do one step at a time. Ask staff for help if you need it — that is part of learning.

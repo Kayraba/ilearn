@@ -1,0 +1,1 @@
+In this lesson, we build a tidy Excel table. We will add headings, type simple data, make the headings stand out, widen a column, and show prices as money.

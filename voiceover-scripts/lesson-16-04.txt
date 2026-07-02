@@ -1,0 +1,1 @@
+Every formula begins with an equals sign. We type equals, S U M, then the cells to add, in brackets.

@@ -1,0 +1,1 @@
+To make it wider, move the mouse up to the line between the A and the B, at the top. The pointer changes to a double arrow. Hold the left button down on that line.

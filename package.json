@@ -1,0 +1,11 @@
+{
+  "name": "ilearn-standalone-voice-tools",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "serve": "python3 -m http.server 8000",
+    "voiceover:script": "node scripts/export-voiceover-script.mjs",
+    "voiceover:free": "node scripts/generate-voiceover-edge.mjs"
+  }
+}

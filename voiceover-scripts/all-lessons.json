@@ -1,0 +1,1229 @@
+{
+  "generatedAt": "2026-07-02T13:58:25.789Z",
+  "lessons": [
+    {
+      "lesson": 1,
+      "title": "Turn on and sign in",
+      "beats": [
+        {
+          "lesson": 1,
+          "lessonTitle": "Turn on and sign in",
+          "beat": 1,
+          "kind": "title",
+          "text": "Lesson 1: Turn on and sign in. I will guide you through it one step at a time.",
+          "estimatedSeconds": 5
+        },
+        {
+          "lesson": 1,
+          "lessonTitle": "Turn on and sign in",
+          "beat": 2,
+          "kind": "intro",
+          "text": "In this lesson, I will guide you through the full start-up routine. We press the power button once, wait calmly, sign in carefully, and check that the desktop is ready. There is no rush — waiting is part of using a computer well.",
+          "estimatedSeconds": 21
+        },
+        {
+          "lesson": 1,
+          "lessonTitle": "Turn on and sign in",
+          "beat": 3,
+          "kind": "demo",
+          "text": "Look at the front or side of the computer for a small round button with a line through the top. That is the power button.",
+          "estimatedSeconds": 13
+        },
+        {
+          "lesson": 1,
+          "lessonTitle": "Turn on and sign in",
+          "beat": 4,
+          "kind": "demo",
+          "text": "We press the power button once. Just once — a single, gentle press. Then we take our hand away and wait.",
+          "estimatedSeconds": 11
+        },
+        {
+          "lesson": 1,
+          "lessonTitle": "Turn on and sign in",
+          "beat": 5,
+          "kind": "demo",
+          "text": "Waiting is part of using a computer well. The screen may be dark for a moment. That is completely normal. We stay calm and let it wake up.",
+          "estimatedSeconds": 14
+        },
+        {
+          "lesson": 1,
+          "lessonTitle": "Turn on and sign in",
+          "beat": 6,
+          "kind": "demo",
+          "text": "Now the computer asks who we are. We type our password carefully, letter by letter. The dots hide it so it stays private.",
+          "estimatedSeconds": 12
+        },
+        {
+          "lesson": 1,
+          "lessonTitle": "Turn on and sign in",
+          "beat": 7,
+          "kind": "demo",
+          "text": "And there it is. This screen is called the desktop. It is our starting place, with our folders and programs ready to use.",
+          "estimatedSeconds": 12
+        },
+        {
+          "lesson": 1,
+          "lessonTitle": "Turn on and sign in",
+          "beat": 8,
+          "kind": "activity-guide",
+          "text": "When you start the activities, they will follow the same order as this lesson. First, you do a warm-up: Check the device is charged, the keyboard and mouse are connected, and you can sit comfortably with the screen at a good distance. Then you answer quick checks, so we know the key words make sense. Next, you practise the real computer skill: Complete the full start-up routine twice. First time with staff prompts, second time with fewer prompts. You may also type a short answer, for example: Type a practice password to sign in. At the end, you finish with a stretch or reflection: Open the Start menu, find the power option, and identify Shut down. Staff can complete the final click if needed. Take one activity at a time. If you need help, ask staff, then try the next step yourself.",
+          "estimatedSeconds": 68
+        },
+        {
+          "lesson": 1,
+          "lessonTitle": "Turn on and sign in",
+          "beat": 9,
+          "kind": "mistake",
+          "text": "Here is one useful thing to watch for. Pressing the power button many times does not make it faster. One press, then wait. If it happens, pause, reset, and try again calmly.",
+          "estimatedSeconds": 16
+        },
+        {
+          "lesson": 1,
+          "lessonTitle": "Turn on and sign in",
+          "beat": 10,
+          "kind": "done",
+          "text": "Brilliant. You now know how to turn a computer on, wait calmly, and sign in safely — the very first step to being confident. Now it is your turn. Scroll down to the activities and do one step at a time. Ask staff for help if you need it — that is part of learning.",
+          "estimatedSeconds": 27
+        }
+      ]
+    },
+    {
+      "lesson": 2,
+      "title": "Use the mouse and click",
+      "beats": [
+        {
+          "lesson": 2,
+          "lessonTitle": "Use the mouse and click",
+          "beat": 1,
+          "kind": "title",
+          "text": "Lesson 2: Use the mouse and click. I will guide you through it one step at a time.",
+          "estimatedSeconds": 5
+        },
+        {
+          "lesson": 2,
+          "lessonTitle": "Use the mouse and click",
+          "beat": 2,
+          "kind": "intro",
+          "text": "In this lesson, we practise using the mouse. Watch the pointer as it moves, stop on the thing you want, then click once. We are aiming for calm, gentle control, not speed.",
+          "estimatedSeconds": 16
+        },
+        {
+          "lesson": 2,
+          "lessonTitle": "Use the mouse and click",
+          "beat": 3,
+          "kind": "demo",
+          "text": "Rest your hand gently on the mouse. As you slide it, watch the little arrow on screen move with you — that arrow is the pointer.",
+          "estimatedSeconds": 13
+        },
+        {
+          "lesson": 2,
+          "lessonTitle": "Use the mouse and click",
+          "beat": 4,
+          "kind": "demo",
+          "text": "The pointer is like our finger, reaching into the screen. We move slowly, and we stop right on the thing we want.",
+          "estimatedSeconds": 12
+        },
+        {
+          "lesson": 2,
+          "lessonTitle": "Use the mouse and click",
+          "beat": 5,
+          "kind": "demo",
+          "text": "To choose something, we rest the pointer on it and press the left button once. Let us choose the blue W for Word.",
+          "estimatedSeconds": 12
+        },
+        {
+          "lesson": 2,
+          "lessonTitle": "Use the mouse and click",
+          "beat": 6,
+          "kind": "demo",
+          "text": "One click chooses it. See how it lights up? We have not opened it yet — one click simply chooses.",
+          "estimatedSeconds": 11
+        },
+        {
+          "lesson": 2,
+          "lessonTitle": "Use the mouse and click",
+          "beat": 7,
+          "kind": "activity-guide",
+          "text": "When you start the activities, they will follow the same order as this lesson. First, you do a warm-up: Staff will ask you to move slowly to top-left, top-right, bottom-left and bottom-right. Repeat until movement is calmer. Then you answer quick checks, so we know the key words make sense. Next, you practise the real computer skill: Use real icons or safe blank desktop space. Staff will name a target, You moves to it and single-clicks once. You may also type a short answer, for example: Type the word click. At the end, you finish with a stretch or reflection: Staff will say the target name but avoids pointing. Move back to gesture prompts only if you gets stuck. Take one activity at a time. If you need help, ask staff, then try the next step yourself.",
+          "estimatedSeconds": 66
+        },
+        {
+          "lesson": 2,
+          "lessonTitle": "Use the mouse and click",
+          "beat": 8,
+          "kind": "mistake",
+          "text": "Here is one useful thing to watch for. Do not press hard or click many times. A light, single click is all it takes. If it happens, pause, reset, and try again calmly.",
+          "estimatedSeconds": 17
+        },
+        {
+          "lesson": 2,
+          "lessonTitle": "Use the mouse and click",
+          "beat": 9,
+          "kind": "done",
+          "text": "Lovely work. You can move the pointer and click once to choose — the mouse is your tool now. Now it is your turn. Scroll down to the activities and do one step at a time. Ask staff for help if you need it — that is part of learning.",
+          "estimatedSeconds": 25
+        }
+      ]
+    },
+    {
+      "lesson": 3,
+      "title": "Open with double-click",
+      "beats": [
+        {
+          "lesson": 3,
+          "lessonTitle": "Open with double-click",
+          "beat": 1,
+          "kind": "title",
+          "text": "Lesson 3: Open with double-click. I will guide you through it one step at a time.",
+          "estimatedSeconds": 5
+        },
+        {
+          "lesson": 3,
+          "lessonTitle": "Open with double-click",
+          "beat": 2,
+          "kind": "intro",
+          "text": "In this lesson, we learn double-clicking. Two quick clicks can open a program or file, but the mouse needs to stay still. If it does not open first time, that is fine — we pause, reset, and try again.",
+          "estimatedSeconds": 20
+        },
+        {
+          "lesson": 3,
+          "lessonTitle": "Open with double-click",
+          "beat": 3,
+          "kind": "demo",
+          "text": "Point the arrow at the Documents folder. To open it, we will use two quick clicks, one after the other.",
+          "estimatedSeconds": 11
+        },
+        {
+          "lesson": 3,
+          "lessonTitle": "Open with double-click",
+          "beat": 4,
+          "kind": "demo",
+          "text": "The secret is this: keep the mouse perfectly still, and click twice quickly. Click, click. The stillness is what matters most.",
+          "estimatedSeconds": 11
+        },
+        {
+          "lesson": 3,
+          "lessonTitle": "Open with double-click",
+          "beat": 5,
+          "kind": "demo",
+          "text": "And it opens. Well done. That is a double-click. The Documents folder is now open in front of us.",
+          "estimatedSeconds": 10
+        },
+        {
+          "lesson": 3,
+          "lessonTitle": "Open with double-click",
+          "beat": 6,
+          "kind": "activity-guide",
+          "text": "When you start the activities, they will follow the same order as this lesson. First, you do a warm-up: You practise two quick taps on the mouse while keeping the hand still. Then you answer quick checks, so we know the key words make sense. Next, you practise the real computer skill: Open Documents, close it, then open it again. Repeat with staff fading prompts each time. You may also type a short answer, for example: Type the action we use to open an icon. At the end, you finish with a stretch or reflection: Staff will name the target only. You attempts the double-click without hand-over-hand support unless needed. Take one activity at a time. If you need help, ask staff, then try the next step yourself.",
+          "estimatedSeconds": 61
+        },
+        {
+          "lesson": 3,
+          "lessonTitle": "Open with double-click",
+          "beat": 7,
+          "kind": "mistake",
+          "text": "Here is one useful thing to watch for. If it does not open, the mouse probably moved. Keep it still, and try the two clicks again. If it happens, pause, reset, and try again calmly.",
+          "estimatedSeconds": 18
+        },
+        {
+          "lesson": 3,
+          "lessonTitle": "Open with double-click",
+          "beat": 8,
+          "kind": "done",
+          "text": "Well done. Two quick clicks, mouse held still — you have the double-click, and you know to stay calm and try again. Now it is your turn. Scroll down to the activities and do one step at a time. Ask staff for help if you need it — that is part of learning.",
+          "estimatedSeconds": 26
+        }
+      ]
+    },
+    {
+      "lesson": 4,
+      "title": "Use the keyboard",
+      "beats": [
+        {
+          "lesson": 4,
+          "lessonTitle": "Use the keyboard",
+          "beat": 1,
+          "kind": "title",
+          "text": "Lesson 4: Use the keyboard. I will guide you through it one step at a time.",
+          "estimatedSeconds": 5
+        },
+        {
+          "lesson": 4,
+          "lessonTitle": "Use the keyboard",
+          "beat": 2,
+          "kind": "intro",
+          "text": "In this lesson, the keyboard becomes your tool for writing. We will type slowly, use Space between words, Enter for a new line, and Backspace to fix a mistake. Good typing is careful, not fast.",
+          "estimatedSeconds": 18
+        },
+        {
+          "lesson": 4,
+          "lessonTitle": "Use the keyboard",
+          "beat": 3,
+          "kind": "demo",
+          "text": "The keyboard has lots of keys, but three do most of the work: Space, Enter, and Backspace. Let us find them together.",
+          "estimatedSeconds": 12
+        },
+        {
+          "lesson": 4,
+          "lessonTitle": "Use the keyboard",
+          "beat": 4,
+          "kind": "demo",
+          "text": "We click where the line is flashing, and then we type, slowly. Let us type the word cat, one letter at a time.",
+          "estimatedSeconds": 12
+        },
+        {
+          "lesson": 4,
+          "lessonTitle": "Use the keyboard",
+          "beat": 5,
+          "kind": "demo",
+          "text": "The Space bar makes a gap between words. And if we make a mistake, the Backspace key removes the last letter. Mistakes are completely fine.",
+          "estimatedSeconds": 13
+        },
+        {
+          "lesson": 4,
+          "lessonTitle": "Use the keyboard",
+          "beat": 6,
+          "kind": "activity-guide",
+          "text": "When you start the activities, they will follow the same order as this lesson. First, you do a warm-up: Staff will name letters from the your name or a familiar word. You point first, then presses. Then you answer quick checks, so we know the key words make sense. Next, you practise the real computer skill: Use simple words such as cat, bus and tea. After each word, press Space before the next word. You may also type a short answer, for example: Type the word: cat. At the end, you finish with a stretch or reflection: Practise holding Shift and pressing one letter. Keep this calm; it is a stretch task. Take one activity at a time. If you need help, ask staff, then try the next step yourself.",
+          "estimatedSeconds": 62
+        },
+        {
+          "lesson": 4,
+          "lessonTitle": "Use the keyboard",
+          "beat": 7,
+          "kind": "mistake",
+          "text": "Here is one useful thing to watch for. Holding a key down types the same letter over and over. A quick tap gives one letter. If it happens, pause, reset, and try again calmly.",
+          "estimatedSeconds": 17
+        },
+        {
+          "lesson": 4,
+          "lessonTitle": "Use the keyboard",
+          "beat": 8,
+          "kind": "done",
+          "text": "Great effort. You can type words, use Space and Enter, and fix mistakes with Backspace. Mistakes are always fine. Now it is your turn. Scroll down to the activities and do one step at a time. Ask staff for help if you need it — that is part of learning.",
+          "estimatedSeconds": 25
+        }
+      ]
+    },
+    {
+      "lesson": 5,
+      "title": "Open, minimise and close",
+      "beats": [
+        {
+          "lesson": 5,
+          "lessonTitle": "Open, minimise and close",
+          "beat": 1,
+          "kind": "title",
+          "text": "Lesson 5: Open, minimise and close. I will guide you through it one step at a time.",
+          "estimatedSeconds": 5
+        },
+        {
+          "lesson": 5,
+          "lessonTitle": "Open, minimise and close",
+          "beat": 2,
+          "kind": "intro",
+          "text": "In this lesson, we look at windows. A program opens inside a window, and the buttons at the top help us minimise, maximise, or close it. We will practise choosing the right button calmly.",
+          "estimatedSeconds": 17
+        },
+        {
+          "lesson": 5,
+          "lessonTitle": "Open, minimise and close",
+          "beat": 3,
+          "kind": "demo",
+          "text": "Double-click the blue W to open Word. Watch how it opens up in its own window on the screen.",
+          "estimatedSeconds": 10
+        },
+        {
+          "lesson": 5,
+          "lessonTitle": "Open, minimise and close",
+          "beat": 4,
+          "kind": "demo",
+          "text": "Here it is, open in its own window. At the top corner are three small buttons that control the window.",
+          "estimatedSeconds": 11
+        },
+        {
+          "lesson": 5,
+          "lessonTitle": "Open, minimise and close",
+          "beat": 5,
+          "kind": "demo",
+          "text": "When we are finished, we find the X in the very top corner. The X means: I am done with this window.",
+          "estimatedSeconds": 12
+        },
+        {
+          "lesson": 5,
+          "lessonTitle": "Open, minimise and close",
+          "beat": 6,
+          "kind": "activity-guide",
+          "text": "When you start the activities, they will follow the same order as this lesson. First, you do a warm-up: Point to minimise, maximise and close. Explain that X means finished with this window. Then you answer quick checks, so we know the key words make sense. Next, you practise the real computer skill: Open one app, wait, minimise it, bring it back, then close it. Repeat slowly. You may also type a short answer, for example: Type the word for the button that closes a window. At the end, you finish with a stretch or reflection: Staff gives the four actions in order. You attempts each before staff prompts. Take one activity at a time. If you need help, ask staff, then try the next step yourself.",
+          "estimatedSeconds": 61
+        },
+        {
+          "lesson": 5,
+          "lessonTitle": "Open, minimise and close",
+          "beat": 7,
+          "kind": "mistake",
+          "text": "Here is one useful thing to watch for. The X closes the window. The minus only tucks it away. Look carefully before you click. If it happens, pause, reset, and try again calmly.",
+          "estimatedSeconds": 17
+        },
+        {
+          "lesson": 5,
+          "lessonTitle": "Open, minimise and close",
+          "beat": 8,
+          "kind": "done",
+          "text": "Nicely done. You can open a program, tuck it away, bring it back, and close it with the X when you are finished. Now it is your turn. Scroll down to the activities and do one step at a time. Ask staff for help if you need it — that is part of learning.",
+          "estimatedSeconds": 27
+        }
+      ]
+    },
+    {
+      "lesson": 6,
+      "title": "Save a file",
+      "beats": [
+        {
+          "lesson": 6,
+          "lessonTitle": "Save a file",
+          "beat": 1,
+          "kind": "title",
+          "text": "Lesson 6: Save a file. I will guide you through it one step at a time.",
+          "estimatedSeconds": 5
+        },
+        {
+          "lesson": 6,
+          "lessonTitle": "Save a file",
+          "beat": 2,
+          "kind": "intro",
+          "text": "In this lesson, we save work so we can find it again later. I will show you how to write a short note, give it a clear file name, save it in Documents, close it, and open it again.",
+          "estimatedSeconds": 20
+        },
+        {
+          "lesson": 6,
+          "lessonTitle": "Save a file",
+          "beat": 3,
+          "kind": "demo",
+          "text": "We have written a short note. To keep it, we click the File menu at the top, and then choose Save.",
+          "estimatedSeconds": 11
+        },
+        {
+          "lesson": 6,
+          "lessonTitle": "Save a file",
+          "beat": 4,
+          "kind": "demo",
+          "text": "The computer asks for a name. We give it a simple, clear name, so we can find it again later.",
+          "estimatedSeconds": 11
+        },
+        {
+          "lesson": 6,
+          "lessonTitle": "Save a file",
+          "beat": 5,
+          "kind": "demo",
+          "text": "And we always save to the same place: the Documents folder. Then we press Save.",
+          "estimatedSeconds": 8
+        },
+        {
+          "lesson": 6,
+          "lessonTitle": "Save a file",
+          "beat": 6,
+          "kind": "demo",
+          "text": "Later, we open Documents, and our work is waiting for us. The same drawer, every time.",
+          "estimatedSeconds": 9
+        },
+        {
+          "lesson": 6,
+          "lessonTitle": "Save a file",
+          "beat": 7,
+          "kind": "activity-guide",
+          "text": "When you start the activities, they will follow the same order as this lesson. First, you do a warm-up: Pick a meaningful name such as shopping list, appointment note or my practice note. Then you answer quick checks, so we know the key words make sense. Next, you practise the real computer skill: Open Word, type one sentence, use Save As, type the file name and choose Documents. You may also type a short answer, for example: Type a clear file name. At the end, you finish with a stretch or reflection: Use Save As to make a second copy with a different name. Talk about when two versions might be useful. Take one activity at a time. If you need help, ask staff, then try the next step yourself.",
+          "estimatedSeconds": 62
+        },
+        {
+          "lesson": 6,
+          "lessonTitle": "Save a file",
+          "beat": 8,
+          "kind": "mistake",
+          "text": "Here is one useful thing to watch for. Closing without saving can lose new work. Always save first, then close. If it happens, pause, reset, and try again calmly.",
+          "estimatedSeconds": 15
+        },
+        {
+          "lesson": 6,
+          "lessonTitle": "Save a file",
+          "beat": 9,
+          "kind": "done",
+          "text": "Wonderful. You can save your work with a clear name in Documents — and that means it will never be lost. Now it is your turn. Scroll down to the activities and do one step at a time. Ask staff for help if you need it — that is part of learning.",
+          "estimatedSeconds": 26
+        }
+      ]
+    },
+    {
+      "lesson": 7,
+      "title": "Find files and folders",
+      "beats": [
+        {
+          "lesson": 7,
+          "lessonTitle": "Find files and folders",
+          "beat": 1,
+          "kind": "title",
+          "text": "Lesson 7: Find files and folders. I will guide you through it one step at a time.",
+          "estimatedSeconds": 5
+        },
+        {
+          "lesson": 7,
+          "lessonTitle": "Find files and folders",
+          "beat": 2,
+          "kind": "intro",
+          "text": "In this lesson, we organise work. A file is one piece of work, and a folder is a safe place to keep related files together. We will practise putting work where it belongs.",
+          "estimatedSeconds": 17
+        },
+        {
+          "lesson": 7,
+          "lessonTitle": "Find files and folders",
+          "beat": 3,
+          "kind": "demo",
+          "text": "Here is one file. Think of a file as a single piece of work — one note, one letter, one list.",
+          "estimatedSeconds": 11
+        },
+        {
+          "lesson": 7,
+          "lessonTitle": "Find files and folders",
+          "beat": 4,
+          "kind": "demo",
+          "text": "A folder is like a box that holds many files together, and keeps them tidy. Documents is the folder we use most.",
+          "estimatedSeconds": 12
+        },
+        {
+          "lesson": 7,
+          "lessonTitle": "Find files and folders",
+          "beat": 5,
+          "kind": "demo",
+          "text": "So when we look for our work, we open Documents, and there it is, kept safely inside.",
+          "estimatedSeconds": 9
+        },
+        {
+          "lesson": 7,
+          "lessonTitle": "Find files and folders",
+          "beat": 6,
+          "kind": "activity-guide",
+          "text": "When you start the activities, they will follow the same order as this lesson. First, you do a warm-up: Staff will say examples: holiday photo, Documents, CV, shopping folder. You decide file or folder. Then you answer quick checks, so we know the key words make sense. Next, you practise the real computer skill: Open File Explorer and visit Desktop, Documents and Downloads. Keep returning to Documents as the main place. You may also type a short answer, for example: Type the folder we look in first for saved work. At the end, you finish with a stretch or reflection: Use a safe test file. Staff supports you to place it inside the new folder. Take one activity at a time. If you need help, ask staff, then try the next step yourself.",
+          "estimatedSeconds": 64
+        },
+        {
+          "lesson": 7,
+          "lessonTitle": "Find files and folders",
+          "beat": 7,
+          "kind": "mistake",
+          "text": "Here is one useful thing to watch for. A file is one piece of work; a folder is the box. Do not mix the two up. If it happens, pause, reset, and try again calmly.",
+          "estimatedSeconds": 18
+        },
+        {
+          "lesson": 7,
+          "lessonTitle": "Find files and folders",
+          "beat": 8,
+          "kind": "done",
+          "text": "Good work. You know a file is one piece of work and a folder holds them together — and you can find your work in Documents. Now it is your turn. Scroll down to the activities and do one step at a time. Ask staff for help if you need it — that is part of learning.",
+          "estimatedSeconds": 28
+        }
+      ]
+    },
+    {
+      "lesson": 8,
+      "title": "Practice: save and find",
+      "beats": [
+        {
+          "lesson": 8,
+          "lessonTitle": "Practice: save and find",
+          "beat": 1,
+          "kind": "title",
+          "text": "Lesson 8: Practice: save and find. I will guide you through it one step at a time.",
+          "estimatedSeconds": 5
+        },
+        {
+          "lesson": 8,
+          "lessonTitle": "Practice: save and find",
+          "beat": 2,
+          "kind": "intro",
+          "text": "In this lesson, we put the routine together. You will open Word, type a note, save it, close it, and find it again. This is a real independence skill, and we will take it one step at a time.",
+          "estimatedSeconds": 20
+        },
+        {
+          "lesson": 8,
+          "lessonTitle": "Practice: save and find",
+          "beat": 3,
+          "kind": "demo",
+          "text": "Watch closely just once. In a moment you will try the whole thing yourself, so notice each step as I go.",
+          "estimatedSeconds": 11
+        },
+        {
+          "lesson": 8,
+          "lessonTitle": "Practice: save and find",
+          "beat": 4,
+          "kind": "demo",
+          "text": "First we type our note.",
+          "estimatedSeconds": 4
+        },
+        {
+          "lesson": 8,
+          "lessonTitle": "Practice: save and find",
+          "beat": 5,
+          "kind": "demo",
+          "text": "Then we save it, with a name, in Documents.",
+          "estimatedSeconds": 6
+        },
+        {
+          "lesson": 8,
+          "lessonTitle": "Practice: save and find",
+          "beat": 6,
+          "kind": "demo",
+          "text": "And finally we find it again in the Documents folder. This whole routine is where independence begins to show.",
+          "estimatedSeconds": 10
+        },
+        {
+          "lesson": 8,
+          "lessonTitle": "Practice: save and find",
+          "beat": 7,
+          "kind": "activity-guide",
+          "text": "When you start the activities, they will follow the same order as this lesson. First, you do a warm-up: Create, type, save, close, find. Staff will say it once, You repeats or points to prompt cards. Then you answer quick checks, so we know the key words make sense. Next, you practise the real computer skill: Open Word, type a note, save it in Documents, close Word, then reopen the file. You may also type a short answer, for example: Type a short note. At the end, you finish with a stretch or reflection: Use words, pointing or yes/no choices. Staff notes barriers and the next support step. Take one activity at a time. If you need help, ask staff, then try the next step yourself.",
+          "estimatedSeconds": 60
+        },
+        {
+          "lesson": 8,
+          "lessonTitle": "Practice: save and find",
+          "beat": 8,
+          "kind": "mistake",
+          "text": "Here is one useful thing to watch for. Try not to rush. Saying each step out loud first makes the whole routine easier. If it happens, pause, reset, and try again calmly.",
+          "estimatedSeconds": 16
+        },
+        {
+          "lesson": 8,
+          "lessonTitle": "Practice: save and find",
+          "beat": 9,
+          "kind": "done",
+          "text": "That was excellent. Create, save, close, and find again — you put the whole routine together. This is real independence. Now it is your turn. Scroll down to the activities and do one step at a time. Ask staff for help if you need it — that is part of learning.",
+          "estimatedSeconds": 25
+        }
+      ]
+    },
+    {
+      "lesson": 9,
+      "title": "Word: type a sentence",
+      "beats": [
+        {
+          "lesson": 9,
+          "lessonTitle": "Word: type a sentence",
+          "beat": 1,
+          "kind": "title",
+          "text": "Lesson 9: Word: type a sentence. I will guide you through it one step at a time.",
+          "estimatedSeconds": 5
+        },
+        {
+          "lesson": 9,
+          "lessonTitle": "Word: type a sentence",
+          "beat": 2,
+          "kind": "intro",
+          "text": "In this lesson, we use Word for real writing. A strong sentence starts with a capital letter, has spaces between words, and ends with a full stop. I will show you how to build it slowly.",
+          "estimatedSeconds": 18
+        },
+        {
+          "lesson": 9,
+          "lessonTitle": "Word: type a sentence",
+          "beat": 3,
+          "kind": "demo",
+          "text": "Open Word by double-clicking the blue W, and click onto the blank white page so the cursor is ready.",
+          "estimatedSeconds": 10
+        },
+        {
+          "lesson": 9,
+          "lessonTitle": "Word: type a sentence",
+          "beat": 4,
+          "kind": "demo",
+          "text": "A good sentence starts with a capital letter. We hold the Shift key to make that first capital.",
+          "estimatedSeconds": 10
+        },
+        {
+          "lesson": 9,
+          "lessonTitle": "Word: type a sentence",
+          "beat": 5,
+          "kind": "demo",
+          "text": "We put a space between each word, and we finish with a full stop. There — a clear, complete sentence.",
+          "estimatedSeconds": 11
+        },
+        {
+          "lesson": 9,
+          "lessonTitle": "Word: type a sentence",
+          "beat": 6,
+          "kind": "activity-guide",
+          "text": "When you start the activities, they will follow the same order as this lesson. First, you do a warm-up: You open Word, clicks the page, and watches for the flashing cursor. Then you answer quick checks, so we know the key words make sense. Next, you practise the real computer skill: Build one sentence together: capital letter, words, spaces and full stop. You may also type a short answer, for example: Type a full sentence. At the end, you finish with a stretch or reflection: Press Enter and add another sentence. Staff supports punctuation only after the idea is typed. Take one activity at a time. If you need help, ask staff, then try the next step yourself.",
+          "estimatedSeconds": 57
+        },
+        {
+          "lesson": 9,
+          "lessonTitle": "Word: type a sentence",
+          "beat": 7,
+          "kind": "mistake",
+          "text": "Here is one useful thing to watch for. A sentence needs a capital at the start and a full stop at the end — it is easy to forget the full stop. If it happens, pause, reset, and try again calmly.",
+          "estimatedSeconds": 21
+        },
+        {
+          "lesson": 9,
+          "lessonTitle": "Word: type a sentence",
+          "beat": 8,
+          "kind": "done",
+          "text": "Beautiful writing. A capital to start, spaces between words, a full stop at the end — you wrote a proper sentence. Now it is your turn. Scroll down to the activities and do one step at a time. Ask staff for help if you need it — that is part of learning.",
+          "estimatedSeconds": 26
+        }
+      ]
+    },
+    {
+      "lesson": 10,
+      "title": "Word: copy, paste and undo",
+      "beats": [
+        {
+          "lesson": 10,
+          "lessonTitle": "Word: copy, paste and undo",
+          "beat": 1,
+          "kind": "title",
+          "text": "Lesson 10: Word: copy, paste and undo. I will guide you through it one step at a time.",
+          "estimatedSeconds": 5
+        },
+        {
+          "lesson": 10,
+          "lessonTitle": "Word: copy, paste and undo",
+          "beat": 2,
+          "kind": "intro",
+          "text": "In this lesson, we edit without starting again. Copy, paste, and undo are useful tools because they let you try things safely. If something changes by mistake, undo helps you go back.",
+          "estimatedSeconds": 16
+        },
+        {
+          "lesson": 10,
+          "lessonTitle": "Word: copy, paste and undo",
+          "beat": 3,
+          "kind": "demo",
+          "text": "First we choose the text. Put the pointer just before the word, hold the left mouse button down, and slide across it. The word turns blue — that means it is selected.",
+          "estimatedSeconds": 16
+        },
+        {
+          "lesson": 10,
+          "lessonTitle": "Word: copy, paste and undo",
+          "beat": 4,
+          "kind": "demo",
+          "text": "Now copy it. Find the Control key at the bottom-left of the keyboard. Hold it down, and while still holding, tap the letter C. Control and C together means copy.",
+          "estimatedSeconds": 15
+        },
+        {
+          "lesson": 10,
+          "lessonTitle": "Word: copy, paste and undo",
+          "beat": 5,
+          "kind": "demo",
+          "text": "Click where you want the word to go. Then hold Control down again and, while holding, tap the letter V. Control and V together pastes your copy in.",
+          "estimatedSeconds": 14
+        },
+        {
+          "lesson": 10,
+          "lessonTitle": "Word: copy, paste and undo",
+          "beat": 6,
+          "kind": "demo",
+          "text": "Made a mistake? Do not worry. Hold Control down and tap the letter Z. Control and Z together is Undo — it steps you back, one change at a time. Nothing here can break.",
+          "estimatedSeconds": 17
+        },
+        {
+          "lesson": 10,
+          "lessonTitle": "Word: copy, paste and undo",
+          "beat": 7,
+          "kind": "activity-guide",
+          "text": "When you start the activities, they will follow the same order as this lesson. First, you do a warm-up: Practise selecting a word by double-clicking or dragging. Staff can use a large sample word. Then you answer quick checks, so we know the key words make sense. Next, you practise the real computer skill: Select one word, copy it with Ctrl + C, click lower on the page and paste with Ctrl + V. You may also type a short answer, for example: Type the shortcut letter for paste. At the end, you finish with a stretch or reflection: You copies a name, pastes it twice, then undoes one paste. Staff only prompts when needed. Take one activity at a time. If you need help, ask staff, then try the next step yourself.",
+          "estimatedSeconds": 64
+        },
+        {
+          "lesson": 10,
+          "lessonTitle": "Word: copy, paste and undo",
+          "beat": 8,
+          "kind": "mistake",
+          "text": "Here is one useful thing to watch for. Copy does not remove the text; it leaves it where it is. Only Cut takes it away. If it happens, pause, reset, and try again calmly.",
+          "estimatedSeconds": 17
+        },
+        {
+          "lesson": 10,
+          "lessonTitle": "Word: copy, paste and undo",
+          "beat": 9,
+          "kind": "done",
+          "text": "Really well done. Copy, paste and undo — three powerful tools, and undo means nothing can ever break. Now it is your turn. Scroll down to the activities and do one step at a time. Ask staff for help if you need it — that is part of learning.",
+          "estimatedSeconds": 24
+        }
+      ]
+    },
+    {
+      "lesson": 11,
+      "title": "Word: format text",
+      "beats": [
+        {
+          "lesson": 11,
+          "lessonTitle": "Word: format text",
+          "beat": 1,
+          "kind": "title",
+          "text": "Lesson 11: Word: format text. I will guide you through it one step at a time.",
+          "estimatedSeconds": 5
+        },
+        {
+          "lesson": 11,
+          "lessonTitle": "Word: format text",
+          "beat": 2,
+          "kind": "intro",
+          "text": "In this lesson, we make important words stand out. First we choose the text, then we change it. I will show you bold, italic, underline, and colour using that simple rule: choose first, then change.",
+          "estimatedSeconds": 18
+        },
+        {
+          "lesson": 11,
+          "lessonTitle": "Word: format text",
+          "beat": 3,
+          "kind": "demo",
+          "text": "Always choose the word first. Slide the mouse across it so it turns blue. Up in the toolbar at the top is a row of buttons — that is where we change how the word looks.",
+          "estimatedSeconds": 18
+        },
+        {
+          "lesson": 11,
+          "lessonTitle": "Word: format text",
+          "beat": 4,
+          "kind": "demo",
+          "text": "Find the button with a bold letter B. Click it once. Your word becomes bold — darker and stronger, so it stands out.",
+          "estimatedSeconds": 12
+        },
+        {
+          "lesson": 11,
+          "lessonTitle": "Word: format text",
+          "beat": 5,
+          "kind": "demo",
+          "text": "Next to it is the slanted letter I, for italic. Click it and the letters lean over, like this.",
+          "estimatedSeconds": 10
+        },
+        {
+          "lesson": 11,
+          "lessonTitle": "Word: format text",
+          "beat": 6,
+          "kind": "demo",
+          "text": "Now the underlined letter U. Click the U button and a line appears under your word — that is underline, useful for something important.",
+          "estimatedSeconds": 13
+        },
+        {
+          "lesson": 11,
+          "lessonTitle": "Word: format text",
+          "beat": 7,
+          "kind": "demo",
+          "text": "Last is the letter A with a coloured bar under it. Click it to change the colour of your word. Remember the rule: choose the word first, then change it.",
+          "estimatedSeconds": 15
+        },
+        {
+          "lesson": 11,
+          "lessonTitle": "Word: format text",
+          "beat": 8,
+          "kind": "activity-guide",
+          "text": "When you start the activities, they will follow the same order as this lesson. First, you do a warm-up: You select a word, then clicks away. Repeat until choose first, change second is clear. Then you answer quick checks, so we know the key words make sense. Next, you practise the real computer skill: Apply bold, italic and underline to three different words. Undo one and apply it again. You may also type a short answer, for example: Type the rule for formatting. At the end, you finish with a stretch or reflection: You formats a three-line note so the title stands out and key words are readable. Take one activity at a time. If you need help, ask staff, then try the next step yourself.",
+          "estimatedSeconds": 60
+        },
+        {
+          "lesson": 11,
+          "lessonTitle": "Word: format text",
+          "beat": 9,
+          "kind": "mistake",
+          "text": "Here is one useful thing to watch for. If nothing changes when you press B, you probably forgot to select the word first. If it happens, pause, reset, and try again calmly.",
+          "estimatedSeconds": 16
+        },
+        {
+          "lesson": 11,
+          "lessonTitle": "Word: format text",
+          "beat": 10,
+          "kind": "done",
+          "text": "Lovely. Bold, italic, underline and colour — and you remembered the golden rule: choose first, then change. Now it is your turn. Scroll down to the activities and do one step at a time. Ask staff for help if you need it — that is part of learning.",
+          "estimatedSeconds": 24
+        }
+      ]
+    },
+    {
+      "lesson": 12,
+      "title": "Word: title and alignment",
+      "beats": [
+        {
+          "lesson": 12,
+          "lessonTitle": "Word: title and alignment",
+          "beat": 1,
+          "kind": "title",
+          "text": "Lesson 12: Word: title and alignment. I will guide you through it one step at a time.",
+          "estimatedSeconds": 5
+        },
+        {
+          "lesson": 12,
+          "lessonTitle": "Word: title and alignment",
+          "beat": 2,
+          "kind": "intro",
+          "text": "In this lesson, we make a page look professional. We will create a clear title, make it bigger and bold, centre it, and then keep the main writing underneath easy to read.",
+          "estimatedSeconds": 16
+        },
+        {
+          "lesson": 12,
+          "lessonTitle": "Word: title and alignment",
+          "beat": 3,
+          "kind": "demo",
+          "text": "Type a short title at the top, then slide the mouse across it so it turns blue. In the toolbar, that little box with a number in it is the text size.",
+          "estimatedSeconds": 16
+        },
+        {
+          "lesson": 12,
+          "lessonTitle": "Word: title and alignment",
+          "beat": 4,
+          "kind": "demo",
+          "text": "Click the size box and choose a bigger number, like twenty-eight. Watch — as the number goes up, your title grows bigger on the page.",
+          "estimatedSeconds": 13
+        },
+        {
+          "lesson": 12,
+          "lessonTitle": "Word: title and alignment",
+          "beat": 5,
+          "kind": "demo",
+          "text": "Now click the bold button, the letter B, so the title is nice and strong.",
+          "estimatedSeconds": 8
+        },
+        {
+          "lesson": 12,
+          "lessonTitle": "Word: title and alignment",
+          "beat": 6,
+          "kind": "demo",
+          "text": "To move it to the middle, look for the align buttons — small rows of lines. Click the centre one, and your title jumps neatly into the middle of the page.",
+          "estimatedSeconds": 16
+        },
+        {
+          "lesson": 12,
+          "lessonTitle": "Word: title and alignment",
+          "beat": 7,
+          "kind": "activity-guide",
+          "text": "When you start the activities, they will follow the same order as this lesson. First, you do a warm-up: Show a plain sentence and a title. Ask which one is easier to spot and why. Then you answer quick checks, so we know the key words make sense. Next, you practise the real computer skill: Type a useful title, select it, make it bigger, make it bold and centre it. You may also type a short answer, for example: Type a title for a simple document. At the end, you finish with a stretch or reflection: Use alignment buttons to show how text moves. Return the final title to centre. Take one activity at a time. If you need help, ask staff, then try the next step yourself.",
+          "estimatedSeconds": 61
+        },
+        {
+          "lesson": 12,
+          "lessonTitle": "Word: title and alignment",
+          "beat": 8,
+          "kind": "mistake",
+          "text": "Here is one useful thing to watch for. Make the title bigger than the writing below, or it will not look like a title. If it happens, pause, reset, and try again calmly.",
+          "estimatedSeconds": 17
+        },
+        {
+          "lesson": 12,
+          "lessonTitle": "Word: title and alignment",
+          "beat": 9,
+          "kind": "done",
+          "text": "That looks smart. A big, bold, centred title with your writing underneath — your documents look professional now. Now it is your turn. Scroll down to the activities and do one step at a time. Ask staff for help if you need it — that is part of learning.",
+          "estimatedSeconds": 24
+        }
+      ]
+    },
+    {
+      "lesson": 13,
+      "title": "Word: lists, spell check and PDF",
+      "beats": [
+        {
+          "lesson": 13,
+          "lessonTitle": "Word: lists, spell check and PDF",
+          "beat": 1,
+          "kind": "title",
+          "text": "Lesson 13: Word: lists, spell check and PDF. I will guide you through it one step at a time.",
+          "estimatedSeconds": 5
+        },
+        {
+          "lesson": 13,
+          "lessonTitle": "Word: lists, spell check and PDF",
+          "beat": 2,
+          "kind": "intro",
+          "text": "In this lesson, we make information easier to share. We will use a bulleted list, notice spell-check suggestions, and save as a PDF so the work looks the same on other devices.",
+          "estimatedSeconds": 16
+        },
+        {
+          "lesson": 13,
+          "lessonTitle": "Word: lists, spell check and PDF",
+          "beat": 3,
+          "kind": "demo",
+          "text": "In the toolbar, look for the bullets button — three little dots stacked with lines beside them. Click it, and a dot appears, ready for your first list item. Type milk.",
+          "estimatedSeconds": 16
+        },
+        {
+          "lesson": 13,
+          "lessonTitle": "Word: lists, spell check and PDF",
+          "beat": 4,
+          "kind": "demo",
+          "text": "Press Enter after each item and a new dot appears on the next line for you. Milk, bread, eggs — one under the other, tidy and clear.",
+          "estimatedSeconds": 14
+        },
+        {
+          "lesson": 13,
+          "lessonTitle": "Word: lists, spell check and PDF",
+          "beat": 5,
+          "kind": "demo",
+          "text": "If a word gets a red wavy line under it, that is Word saying: please check the spelling. Right-click the word to see suggested corrections. It is helping you, not telling you off.",
+          "estimatedSeconds": 17
+        },
+        {
+          "lesson": 13,
+          "lessonTitle": "Word: lists, spell check and PDF",
+          "beat": 6,
+          "kind": "demo",
+          "text": "To share it safely, click File, then Save As. In the box that says \"Save as type\", click the little arrow to open the list.",
+          "estimatedSeconds": 13
+        },
+        {
+          "lesson": 13,
+          "lessonTitle": "Word: lists, spell check and PDF",
+          "beat": 7,
+          "kind": "demo",
+          "text": "From that list, choose PDF. A PDF looks exactly the same on every computer, phone or printer. Click Save, and your list is ready to send.",
+          "estimatedSeconds": 13
+        },
+        {
+          "lesson": 13,
+          "lessonTitle": "Word: lists, spell check and PDF",
+          "beat": 8,
+          "kind": "activity-guide",
+          "text": "When you start the activities, they will follow the same order as this lesson. First, you do a warm-up: Choose a real list: shopping, medication reminders, jobs, appointments or packing. Then you answer quick checks, so we know the key words make sense. Next, you practise the real computer skill: Create a bulleted list with at least four items. Practise Enter for a new bullet. You may also type a short answer, for example: Type the file type that keeps a layout the same. At the end, you finish with a stretch or reflection: Use Save As and choose PDF. Staff may stop before final saving if using a shared device. Take one activity at a time. If you need help, ask staff, then try the next step yourself.",
+          "estimatedSeconds": 62
+        },
+        {
+          "lesson": 13,
+          "lessonTitle": "Word: lists, spell check and PDF",
+          "beat": 9,
+          "kind": "mistake",
+          "text": "Here is one useful thing to watch for. A red wavy line is a helpful hint, not a mistake to feel bad about. If it happens, pause, reset, and try again calmly.",
+          "estimatedSeconds": 16
+        },
+        {
+          "lesson": 13,
+          "lessonTitle": "Word: lists, spell check and PDF",
+          "beat": 10,
+          "kind": "done",
+          "text": "Great job. Tidy lists, a spell-check to help you, and a PDF that looks the same everywhere — ready to share. Now it is your turn. Scroll down to the activities and do one step at a time. Ask staff for help if you need it — that is part of learning.",
+          "estimatedSeconds": 26
+        }
+      ]
+    },
+    {
+      "lesson": 14,
+      "title": "Excel: cells, rows and columns",
+      "beats": [
+        {
+          "lesson": 14,
+          "lessonTitle": "Excel: cells, rows and columns",
+          "beat": 1,
+          "kind": "title",
+          "text": "Lesson 14: Excel: cells, rows and columns. I will guide you through it one step at a time.",
+          "estimatedSeconds": 5
+        },
+        {
+          "lesson": 14,
+          "lessonTitle": "Excel: cells, rows and columns",
+          "beat": 2,
+          "kind": "intro",
+          "text": "In this lesson, we meet Excel. Excel is a grid made from cells. I will show you how columns, rows, and cell names work, starting with the first cell: A1.",
+          "estimatedSeconds": 15
+        },
+        {
+          "lesson": 14,
+          "lessonTitle": "Excel: cells, rows and columns",
+          "beat": 3,
+          "kind": "demo",
+          "text": "Open Excel and look at the screen. Instead of a blank page, you see a grid of little boxes, like squared paper.",
+          "estimatedSeconds": 12
+        },
+        {
+          "lesson": 14,
+          "lessonTitle": "Excel: cells, rows and columns",
+          "beat": 4,
+          "kind": "demo",
+          "text": "Each little box in the grid is called a cell. The columns use letters across the top, and the rows use numbers down the side.",
+          "estimatedSeconds": 13
+        },
+        {
+          "lesson": 14,
+          "lessonTitle": "Excel: cells, rows and columns",
+          "beat": 5,
+          "kind": "demo",
+          "text": "So the box in the very top-left corner is called A1 — column A, row 1. Every cell has a name like this.",
+          "estimatedSeconds": 12
+        },
+        {
+          "lesson": 14,
+          "lessonTitle": "Excel: cells, rows and columns",
+          "beat": 6,
+          "kind": "activity-guide",
+          "text": "When you start the activities, they will follow the same order as this lesson. First, you do a warm-up: Use a blank spreadsheet. You point to a column letter, a row number and a cell. Then you answer quick checks, so we know the key words make sense. Next, you practise the real computer skill: Click A1, B1, A2 and C3. Use the name box or staff prompts to confirm each cell. You may also type a short answer, for example: Type the name of the first top-left cell. At the end, you finish with a stretch or reflection: Ask what C2 means: column C, row 2. Use pointing if spoken explanation is difficult. Take one activity at a time. If you need help, ask staff, then try the next step yourself.",
+          "estimatedSeconds": 63
+        },
+        {
+          "lesson": 14,
+          "lessonTitle": "Excel: cells, rows and columns",
+          "beat": 7,
+          "kind": "mistake",
+          "text": "Here is one useful thing to watch for. Columns are letters, rows are numbers. A cell name is always a letter and then a number. If it happens, pause, reset, and try again calmly.",
+          "estimatedSeconds": 17
+        },
+        {
+          "lesson": 14,
+          "lessonTitle": "Excel: cells, rows and columns",
+          "beat": 8,
+          "kind": "done",
+          "text": "Well done. Cells, columns of letters, rows of numbers, and A1 in the corner — Excel is not a mystery any more. Now it is your turn. Scroll down to the activities and do one step at a time. Ask staff for help if you need it — that is part of learning.",
+          "estimatedSeconds": 26
+        }
+      ]
+    },
+    {
+      "lesson": 15,
+      "title": "Excel: build a tidy table",
+      "beats": [
+        {
+          "lesson": 15,
+          "lessonTitle": "Excel: build a tidy table",
+          "beat": 1,
+          "kind": "title",
+          "text": "Lesson 15: Excel: build a tidy table. I will guide you through it one step at a time.",
+          "estimatedSeconds": 5
+        },
+        {
+          "lesson": 15,
+          "lessonTitle": "Excel: build a tidy table",
+          "beat": 2,
+          "kind": "intro",
+          "text": "In this lesson, we build a tidy Excel table. We will add headings, type simple data, make the headings stand out, widen a column, and show prices as money.",
+          "estimatedSeconds": 15
+        },
+        {
+          "lesson": 15,
+          "lessonTitle": "Excel: build a tidy table",
+          "beat": 3,
+          "kind": "demo",
+          "text": "Click cell A1, at the very top-left. Type your first heading, Item, then press Enter to drop down to the cell below.",
+          "estimatedSeconds": 12
+        },
+        {
+          "lesson": 15,
+          "lessonTitle": "Excel: build a tidy table",
+          "beat": 4,
+          "kind": "demo",
+          "text": "Type your list down the column — bread rolls, orange juice, tea bags. Notice the long words get cut off, because column A is too narrow.",
+          "estimatedSeconds": 13
+        },
+        {
+          "lesson": 15,
+          "lessonTitle": "Excel: build a tidy table",
+          "beat": 5,
+          "kind": "demo",
+          "text": "To make it wider, move the mouse up to the line between the A and the B, at the top. The pointer changes to a double arrow. Hold the left button down on that line.",
+          "estimatedSeconds": 18
+        },
+        {
+          "lesson": 15,
+          "lessonTitle": "Excel: build a tidy table",
+          "beat": 6,
+          "kind": "demo",
+          "text": "Now drag to the right, and let go. The column stretches wider, and every word fits. That is how we widen a column whenever text is cut off.",
+          "estimatedSeconds": 14
+        },
+        {
+          "lesson": 15,
+          "lessonTitle": "Excel: build a tidy table",
+          "beat": 7,
+          "kind": "activity-guide",
+          "text": "When you start the activities, they will follow the same order as this lesson. First, you do a warm-up: Pick something useful: snacks and prices, bus times, chores, attendance or weekly spending. Then you answer quick checks, so we know the key words make sense. Next, you practise the real computer skill: Create headings in row 1, then enter at least five rows of simple data. You may also type a short answer, for example: Type a useful table heading. At the end, you finish with a stretch or reflection: Enter simple prices and apply currency formatting. Discuss why money formatting helps. Take one activity at a time. If you need help, ask staff, then try the next step yourself.",
+          "estimatedSeconds": 58
+        },
+        {
+          "lesson": 15,
+          "lessonTitle": "Excel: build a tidy table",
+          "beat": 8,
+          "kind": "mistake",
+          "text": "Here is one useful thing to watch for. If a word looks cut off, the column is just too narrow — widen it, do not delete the word. If it happens, pause, reset, and try again calmly.",
+          "estimatedSeconds": 19
+        },
+        {
+          "lesson": 15,
+          "lessonTitle": "Excel: build a tidy table",
+          "beat": 9,
+          "kind": "done",
+          "text": "Excellent. Headings, data underneath, and prices shown as money — a clear table anyone can read. Now it is your turn. Scroll down to the activities and do one step at a time. Ask staff for help if you need it — that is part of learning.",
+          "estimatedSeconds": 23
+        }
+      ]
+    },
+    {
+      "lesson": 16,
+      "title": "Excel: formulas and totals",
+      "beats": [
+        {
+          "lesson": 16,
+          "lessonTitle": "Excel: formulas and totals",
+          "beat": 1,
+          "kind": "title",
+          "text": "Lesson 16: Excel: formulas and totals. I will guide you through it one step at a time.",
+          "estimatedSeconds": 5
+        },
+        {
+          "lesson": 16,
+          "lessonTitle": "Excel: formulas and totals",
+          "beat": 2,
+          "kind": "intro",
+          "text": "In this lesson, Excel does the maths for us. A formula starts with an equals sign. We will type a simple formula, use cell names, and finish with AutoSum to total a column.",
+          "estimatedSeconds": 17
+        },
+        {
+          "lesson": 16,
+          "lessonTitle": "Excel: formulas and totals",
+          "beat": 3,
+          "kind": "demo",
+          "text": "We have a short list of prices. Click cell B5, just under the numbers — this is where the total will go.",
+          "estimatedSeconds": 12
+        },
+        {
+          "lesson": 16,
+          "lessonTitle": "Excel: formulas and totals",
+          "beat": 4,
+          "kind": "demo",
+          "text": "Every formula begins with an equals sign. We type equals, S U M, then the cells to add, in brackets.",
+          "estimatedSeconds": 11
+        },
+        {
+          "lesson": 16,
+          "lessonTitle": "Excel: formulas and totals",
+          "beat": 5,
+          "kind": "demo",
+          "text": "We press Enter, and Excel adds it all up for us. The total is six. It did the maths, instantly.",
+          "estimatedSeconds": 11
+        },
+        {
+          "lesson": 16,
+          "lessonTitle": "Excel: formulas and totals",
+          "beat": 6,
+          "kind": "demo",
+          "text": "The AutoSum button, marked with the Greek letter sigma, does this in a single click. A wonderful way to finish the course.",
+          "estimatedSeconds": 12
+        },
+        {
+          "lesson": 16,
+          "lessonTitle": "Excel: formulas and totals",
+          "beat": 7,
+          "kind": "activity-guide",
+          "text": "When you start the activities, they will follow the same order as this lesson. First, you do a warm-up: Show that formulas are instructions for Excel. Say: equals means Excel, please work this out. Then you answer quick checks, so we know the key words make sense. Next, you practise the real computer skill: Type =2+3, press Enter, then change the numbers and try again. You may also type a short answer, for example: Type a formula to add 2 and 3. At the end, you finish with a stretch or reflection: Return to iLearn, mark the lesson complete, and open the certificate together. Staff will ask you what you are most proud of. Take one activity at a time. If you need help, ask staff, then try the next step yourself.",
+          "estimatedSeconds": 63
+        },
+        {
+          "lesson": 16,
+          "lessonTitle": "Excel: formulas and totals",
+          "beat": 8,
+          "kind": "mistake",
+          "text": "Here is one useful thing to watch for. Forgetting the equals sign is the most common slip. Every formula must start with =. If it happens, pause, reset, and try again calmly.",
+          "estimatedSeconds": 16
+        },
+        {
+          "lesson": 16,
+          "lessonTitle": "Excel: formulas and totals",
+          "beat": 9,
+          "kind": "done",
+          "text": "What a finish. Formulas that start with equals, and AutoSum to total a column. You started at the power button and now you write formulas — be proud. Now it is your turn. Scroll down to the activities and do one step at a time. Ask staff for help if you need it — that is part of learning.",
+          "estimatedSeconds": 29
+        }
+      ]
+    }
+  ]
+}

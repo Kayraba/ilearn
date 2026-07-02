@@ -1,0 +1,20 @@
+Word: copy, paste and undo
+==========================
+
+01. Lesson 10: Word: copy, paste and undo. I will guide you through it one step at a time.
+
+02. In this lesson, we edit without starting again. Copy, paste, and undo are useful tools because they let you try things safely. If something changes by mistake, undo helps you go back.
+
+03. First we choose the text. Put the pointer just before the word, hold the left mouse button down, and slide across it. The word turns blue — that means it is selected.
+
+04. Now copy it. Find the Control key at the bottom-left of the keyboard. Hold it down, and while still holding, tap the letter C. Control and C together means copy.
+
+05. Click where you want the word to go. Then hold Control down again and, while holding, tap the letter V. Control and V together pastes your copy in.
+
+06. Made a mistake? Do not worry. Hold Control down and tap the letter Z. Control and Z together is Undo — it steps you back, one change at a time. Nothing here can break.
+
+07. When you start the activities, they will follow the same order as this lesson. First, you do a warm-up: Practise selecting a word by double-clicking or dragging. Staff can use a large sample word. Then you answer quick checks, so we know the key words make sense. Next, you practise the real computer skill: Select one word, copy it with Ctrl + C, click lower on the page and paste with Ctrl + V. You may also type a short answer, for example: Type the shortcut letter for paste. At the end, you finish with a stretch or reflection: You copies a name, pastes it twice, then undoes one paste. Staff only prompts when needed. Take one activity at a time. If you need help, ask staff, then try the next step yourself.
+
+08. Here is one useful thing to watch for. Copy does not remove the text; it leaves it where it is. Only Cut takes it away. If it happens, pause, reset, and try again calmly.
+
+09. Really well done. Copy, paste and undo — three powerful tools, and undo means nothing can ever break. Now it is your turn. Scroll down to the activities and do one step at a time. Ask staff for help if you need it — that is part of learning.

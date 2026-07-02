@@ -1,0 +1,1 @@
+In this lesson, we learn double-clicking. Two quick clicks can open a program or file, but the mouse needs to stay still. If it does not open first time, that is fine — we pause, reset, and try again.

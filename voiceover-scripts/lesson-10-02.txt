@@ -1,0 +1,1 @@
+In this lesson, we edit without starting again. Copy, paste, and undo are useful tools because they let you try things safely. If something changes by mistake, undo helps you go back.

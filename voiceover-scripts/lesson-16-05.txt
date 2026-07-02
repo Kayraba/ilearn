@@ -1,0 +1,1 @@
+We press Enter, and Excel adds it all up for us. The total is six. It did the maths, instantly.

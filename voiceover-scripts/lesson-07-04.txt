@@ -1,0 +1,1 @@
+A folder is like a box that holds many files together, and keeps them tidy. Documents is the folder we use most.

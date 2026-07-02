@@ -1,0 +1,1 @@
+If a word gets a red wavy line under it, that is Word saying: please check the spelling. Right-click the word to see suggested corrections. It is helping you, not telling you off.

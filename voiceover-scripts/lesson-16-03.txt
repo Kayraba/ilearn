@@ -1,0 +1,1 @@
+We have a short list of prices. Click cell B5, just under the numbers — this is where the total will go.

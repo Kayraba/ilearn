@@ -1,0 +1,182 @@
+{
+  "provider": "Microsoft Edge Neural TTS",
+  "voice": "en-GB-SoniaNeural",
+  "rate": "-8%",
+  "pitch": "+0Hz",
+  "generatedAt": "2026-07-02T14:21:09.218Z",
+  "urls": {
+    "1": [
+      "audio/lesson-01-01.mp3",
+      "audio/lesson-01-02.mp3",
+      "audio/lesson-01-03.mp3",
+      "audio/lesson-01-04.mp3",
+      "audio/lesson-01-05.mp3",
+      "audio/lesson-01-06.mp3",
+      "audio/lesson-01-07.mp3",
+      "audio/lesson-01-08.mp3",
+      "audio/lesson-01-09.mp3",
+      "audio/lesson-01-10.mp3"
+    ],
+    "2": [
+      "audio/lesson-02-01.mp3",
+      "audio/lesson-02-02.mp3",
+      "audio/lesson-02-03.mp3",
+      "audio/lesson-02-04.mp3",
+      "audio/lesson-02-05.mp3",
+      "audio/lesson-02-06.mp3",
+      "audio/lesson-02-07.mp3",
+      "audio/lesson-02-08.mp3",
+      "audio/lesson-02-09.mp3"
+    ],
+    "3": [
+      "audio/lesson-03-01.mp3",
+      "audio/lesson-03-02.mp3",
+      "audio/lesson-03-03.mp3",
+      "audio/lesson-03-04.mp3",
+      "audio/lesson-03-05.mp3",
+      "audio/lesson-03-06.mp3",
+      "audio/lesson-03-07.mp3",
+      "audio/lesson-03-08.mp3"
+    ],
+    "4": [
+      "audio/lesson-04-01.mp3",
+      "audio/lesson-04-02.mp3",
+      "audio/lesson-04-03.mp3",
+      "audio/lesson-04-04.mp3",
+      "audio/lesson-04-05.mp3",
+      "audio/lesson-04-06.mp3",
+      "audio/lesson-04-07.mp3",
+      "audio/lesson-04-08.mp3"
+    ],
+    "5": [
+      "audio/lesson-05-01.mp3",
+      "audio/lesson-05-02.mp3",
+      "audio/lesson-05-03.mp3",
+      "audio/lesson-05-04.mp3",
+      "audio/lesson-05-05.mp3",
+      "audio/lesson-05-06.mp3",
+      "audio/lesson-05-07.mp3",
+      "audio/lesson-05-08.mp3"
+    ],
+    "6": [
+      "audio/lesson-06-01.mp3",
+      "audio/lesson-06-02.mp3",
+      "audio/lesson-06-03.mp3",
+      "audio/lesson-06-04.mp3",
+      "audio/lesson-06-05.mp3",
+      "audio/lesson-06-06.mp3",
+      "audio/lesson-06-07.mp3",
+      "audio/lesson-06-08.mp3",
+      "audio/lesson-06-09.mp3"
+    ],
+    "7": [
+      "audio/lesson-07-01.mp3",
+      "audio/lesson-07-02.mp3",
+      "audio/lesson-07-03.mp3",
+      "audio/lesson-07-04.mp3",
+      "audio/lesson-07-05.mp3",
+      "audio/lesson-07-06.mp3",
+      "audio/lesson-07-07.mp3",
+      "audio/lesson-07-08.mp3"
+    ],
+    "8": [
+      "audio/lesson-08-01.mp3",
+      "audio/lesson-08-02.mp3",
+      "audio/lesson-08-03.mp3",
+      "audio/lesson-08-04.mp3",
+      "audio/lesson-08-05.mp3",
+      "audio/lesson-08-06.mp3",
+      "audio/lesson-08-07.mp3",
+      "audio/lesson-08-08.mp3",
+      "audio/lesson-08-09.mp3"
+    ],
+    "9": [
+      "audio/lesson-09-01.mp3",
+      "audio/lesson-09-02.mp3",
+      "audio/lesson-09-03.mp3",
+      "audio/lesson-09-04.mp3",
+      "audio/lesson-09-05.mp3",
+      "audio/lesson-09-06.mp3",
+      "audio/lesson-09-07.mp3",
+      "audio/lesson-09-08.mp3"
+    ],
+    "10": [
+      "audio/lesson-10-01.mp3",
+      "audio/lesson-10-02.mp3",
+      "audio/lesson-10-03.mp3",
+      "audio/lesson-10-04.mp3",
+      "audio/lesson-10-05.mp3",
+      "audio/lesson-10-06.mp3",
+      "audio/lesson-10-07.mp3",
+      "audio/lesson-10-08.mp3",
+      "audio/lesson-10-09.mp3"
+    ],
+    "11": [
+      "audio/lesson-11-01.mp3",
+      "audio/lesson-11-02.mp3",
+      "audio/lesson-11-03.mp3",
+      "audio/lesson-11-04.mp3",
+      "audio/lesson-11-05.mp3",
+      "audio/lesson-11-06.mp3",
+      "audio/lesson-11-07.mp3",
+      "audio/lesson-11-08.mp3",
+      "audio/lesson-11-09.mp3",
+      "audio/lesson-11-10.mp3"
+    ],
+    "12": [
+      "audio/lesson-12-01.mp3",
+      "audio/lesson-12-02.mp3",
+      "audio/lesson-12-03.mp3",
+      "audio/lesson-12-04.mp3",
+      "audio/lesson-12-05.mp3",
+      "audio/lesson-12-06.mp3",
+      "audio/lesson-12-07.mp3",
+      "audio/lesson-12-08.mp3",
+      "audio/lesson-12-09.mp3"
+    ],
+    "13": [
+      "audio/lesson-13-01.mp3",
+      "audio/lesson-13-02.mp3",
+      "audio/lesson-13-03.mp3",
+      "audio/lesson-13-04.mp3",
+      "audio/lesson-13-05.mp3",
+      "audio/lesson-13-06.mp3",
+      "audio/lesson-13-07.mp3",
+      "audio/lesson-13-08.mp3",
+      "audio/lesson-13-09.mp3",
+      "audio/lesson-13-10.mp3"
+    ],
+    "14": [
+      "audio/lesson-14-01.mp3",
+      "audio/lesson-14-02.mp3",
+      "audio/lesson-14-03.mp3",
+      "audio/lesson-14-04.mp3",
+      "audio/lesson-14-05.mp3",
+      "audio/lesson-14-06.mp3",
+      "audio/lesson-14-07.mp3",
+      "audio/lesson-14-08.mp3"
+    ],
+    "15": [
+      "audio/lesson-15-01.mp3",
+      "audio/lesson-15-02.mp3",
+      "audio/lesson-15-03.mp3",
+      "audio/lesson-15-04.mp3",
+      "audio/lesson-15-05.mp3",
+      "audio/lesson-15-06.mp3",
+      "audio/lesson-15-07.mp3",
+      "audio/lesson-15-08.mp3",
+      "audio/lesson-15-09.mp3"
+    ],
+    "16": [
+      "audio/lesson-16-01.mp3",
+      "audio/lesson-16-02.mp3",
+      "audio/lesson-16-03.mp3",
+      "audio/lesson-16-04.mp3",
+      "audio/lesson-16-05.mp3",
+      "audio/lesson-16-06.mp3",
+      "audio/lesson-16-07.mp3",
+      "audio/lesson-16-08.mp3",
+      "audio/lesson-16-09.mp3"
+    ]
+  }
+}

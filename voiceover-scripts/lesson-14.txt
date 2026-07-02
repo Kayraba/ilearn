@@ -1,0 +1,18 @@
+Excel: cells, rows and columns
+==============================
+
+01. Lesson 14: Excel: cells, rows and columns. I will guide you through it one step at a time.
+
+02. In this lesson, we meet Excel. Excel is a grid made from cells. I will show you how columns, rows, and cell names work, starting with the first cell: A1.
+
+03. Open Excel and look at the screen. Instead of a blank page, you see a grid of little boxes, like squared paper.
+
+04. Each little box in the grid is called a cell. The columns use letters across the top, and the rows use numbers down the side.
+
+05. So the box in the very top-left corner is called A1 — column A, row 1. Every cell has a name like this.
+
+06. When you start the activities, they will follow the same order as this lesson. First, you do a warm-up: Use a blank spreadsheet. You point to a column letter, a row number and a cell. Then you answer quick checks, so we know the key words make sense. Next, you practise the real computer skill: Click A1, B1, A2 and C3. Use the name box or staff prompts to confirm each cell. You may also type a short answer, for example: Type the name of the first top-left cell. At the end, you finish with a stretch or reflection: Ask what C2 means: column C, row 2. Use pointing if spoken explanation is difficult. Take one activity at a time. If you need help, ask staff, then try the next step yourself.
+
+07. Here is one useful thing to watch for. Columns are letters, rows are numbers. A cell name is always a letter and then a number. If it happens, pause, reset, and try again calmly.
+
+08. Well done. Cells, columns of letters, rows of numbers, and A1 in the corner — Excel is not a mystery any more. Now it is your turn. Scroll down to the activities and do one step at a time. Ask staff for help if you need it — that is part of learning.

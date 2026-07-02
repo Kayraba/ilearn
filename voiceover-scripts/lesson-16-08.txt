@@ -1,0 +1,1 @@
+Here is one useful thing to watch for. Forgetting the equals sign is the most common slip. Every formula must start with =. If it happens, pause, reset, and try again calmly.

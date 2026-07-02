@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: ilearn-course
+    runtime: static
+    staticPublishPath: .
+    pullRequestPreviewsEnabled: false

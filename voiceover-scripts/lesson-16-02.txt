@@ -1,0 +1,1 @@
+In this lesson, Excel does the maths for us. A formula starts with an equals sign. We will type a simple formula, use cell names, and finish with AutoSum to total a column.

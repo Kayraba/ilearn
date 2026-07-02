@@ -1,0 +1,1 @@
+Click cell A1, at the very top-left. Type your first heading, Item, then press Enter to drop down to the cell below.

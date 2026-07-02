@@ -1,0 +1,1 @@
+In this lesson, we make a page look professional. We will create a clear title, make it bigger and bold, centre it, and then keep the main writing underneath easy to read.

@@ -1,0 +1,1 @@
+The keyboard has lots of keys, but three do most of the work: Space, Enter, and Backspace. Let us find them together.

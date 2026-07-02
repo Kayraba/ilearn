@@ -1,0 +1,20 @@
+Excel: formulas and totals
+==========================
+
+01. Lesson 16: Excel: formulas and totals. I will guide you through it one step at a time.
+
+02. In this lesson, Excel does the maths for us. A formula starts with an equals sign. We will type a simple formula, use cell names, and finish with AutoSum to total a column.
+
+03. We have a short list of prices. Click cell B5, just under the numbers — this is where the total will go.
+
+04. Every formula begins with an equals sign. We type equals, S U M, then the cells to add, in brackets.
+
+05. We press Enter, and Excel adds it all up for us. The total is six. It did the maths, instantly.
+
+06. The AutoSum button, marked with the Greek letter sigma, does this in a single click. A wonderful way to finish the course.
+
+07. When you start the activities, they will follow the same order as this lesson. First, you do a warm-up: Show that formulas are instructions for Excel. Say: equals means Excel, please work this out. Then you answer quick checks, so we know the key words make sense. Next, you practise the real computer skill: Type =2+3, press Enter, then change the numbers and try again. You may also type a short answer, for example: Type a formula to add 2 and 3. At the end, you finish with a stretch or reflection: Return to iLearn, mark the lesson complete, and open the certificate together. Staff will ask you what you are most proud of. Take one activity at a time. If you need help, ask staff, then try the next step yourself.
+
+08. Here is one useful thing to watch for. Forgetting the equals sign is the most common slip. Every formula must start with =. If it happens, pause, reset, and try again calmly.
+
+09. What a finish. Formulas that start with equals, and AutoSum to total a column. You started at the power button and now you write formulas — be proud. Now it is your turn. Scroll down to the activities and do one step at a time. Ask staff for help if you need it — that is part of learning.

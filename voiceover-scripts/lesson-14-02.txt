@@ -1,0 +1,1 @@
+In this lesson, we meet Excel. Excel is a grid made from cells. I will show you how columns, rows, and cell names work, starting with the first cell: A1.

@@ -1,0 +1,1 @@
+Here is one useful thing to watch for. Copy does not remove the text; it leaves it where it is. Only Cut takes it away. If it happens, pause, reset, and try again calmly.

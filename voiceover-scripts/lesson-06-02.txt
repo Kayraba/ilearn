@@ -1,0 +1,1 @@
+In this lesson, we save work so we can find it again later. I will show you how to write a short note, give it a clear file name, save it in Documents, close it, and open it again.
