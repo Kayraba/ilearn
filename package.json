@@ -1,11 +1,13 @@
 {
-  "name": "ilearn-standalone-voice-tools",
+  "name": "ilearn-confident-computing",
   "version": "1.0.0",
   "private": true,
   "type": "module",
   "scripts": {
     "serve": "python3 -m http.server 8000",
+    "test": "node --test \"test/**/*.test.mjs\"",
     "voiceover:script": "node scripts/export-voiceover-script.mjs",
     "voiceover:free": "node scripts/generate-voiceover-edge.mjs"
-  }
+  },
+  "description": "Accessible digital-skills course for supported learners: 16 narrated lessons, 240 activities, staff dashboard. Static front end, no build step."
 }
