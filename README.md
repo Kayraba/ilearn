@@ -1,183 +1,180 @@
 # iLearn — Confident Computing
 
-A browser-based digital-skills course for adults in supported living: 16
-lessons, each with a narrated tutor video and 15 practice activities, plus a
-staff dashboard for tracking progress. It runs as a static site with no backend
-and no build step.
+A digital skills course that runs in the browser, built for adults in supported
+living. 16 lessons, each with a narrated tutor video and 15 practice activities,
+plus a dashboard so staff can see how people are getting on. It's a static site
+— no backend, no build step.
 
 ## Why I built it
 
-Support workers were teaching the same basic computing skills one-to-one —
-signing in, using a mouse, sending an email — with no shared material and no
-record of what a learner had already covered. The constraint that shaped
-everything was that it had to run on whatever hardware a supported-living
-service already has, with no install, no account setup and no IT project. That
-pushed it towards a single HTML file served over HTTP.
+Support workers were teaching the same things one-to-one — signing in, using a
+mouse, sending an email — with no shared material and no record of what someone
+had already done. The main constraint was that it had to run on whatever laptop
+a service already has, with nothing to install and no accounts to set up. That's
+why it ended up as a single HTML file you open over HTTP.
 
-The learners are the reason the accessibility choices are not optional: every
-lesson is narrated, every line of narration has a caption file, and activities
-are readable at a slow pace with no time pressure.
+The learners are the reason the accessibility bits aren't optional. Every lesson
+is narrated, every line has captions, and nothing is on a timer.
 
 ## What it does
 
-- 16 lessons, each with a scripted tutor video assembled from timed "beats" —
-  narration paired with a simulated on-screen UI (a Word window, a browser, a
-  sign-in box) rendered in HTML rather than recorded as video.
-- Real MP3 narration generated ahead of time, with WebVTT captions for every
-  line and a fallback to browser speech synthesis if a file is missing.
-- 240 practice activities across three types: guided practice, multiple choice,
-  and type-the-answer.
-- Learner progress, consent records and certificates, stored in the browser.
-- A staff dashboard showing enrolment, completion and recent activity.
+- 16 lessons, each with a tutor video built from timed "beats" — narration
+  paired with a fake on-screen window (Word, a browser, a sign-in box) drawn in
+  HTML rather than recorded.
+- Real MP3 narration generated in advance, with WebVTT captions for each line.
+  If a file is missing it falls back to the browser's speech synthesis.
+- 240 practice activities in three formats: guided practice, multiple choice,
+  and typing an answer.
+- Progress, consent records and certificates, saved in the browser.
+- A staff dashboard with enrolment, completion and recent activity.
 
 ## Tech stack
 
-Plain JavaScript ES modules, HTML and CSS — no framework and no bundler.
-Microsoft Edge Neural TTS (via `edge-tts`) for narration. Optional Supabase
-Postgres for cross-device sync. Tests use Node's built-in `node:test`. Deployed
+Plain JavaScript ES modules, HTML and CSS. No framework, no bundler. Microsoft
+Edge Neural TTS (through `edge-tts`) for the narration. Optionally Supabase for
+syncing progress between devices. Tests use Node's built-in test runner. Hosted
 as a static site on Render.
 
-## Architecture
+## How it fits together
 
 ```
-iLearn.dc.html    the application — UI, router, learner state, staff dashboard
+iLearn.dc.html    the app — UI, routing, learner state, staff dashboard
 course-data.js    the content: 16 lessons, 240 activities
-lesson-video.js   turns a lesson into a timeline of narrated beats
-support.js        shared runtime helpers
-cloud-config.js   optional Supabase credentials (blank = local-only)
-audio/            generated MP3s + VTT captions + the manifest tying them to beats
+lesson-video.js   turns a lesson into a list of narrated beats
+support.js        shared helpers
+cloud-config.js   optional Supabase settings (blank = local only)
+audio/            generated MP3s, VTT captions, and the manifest
 scripts/          the voiceover generator and script exporter
-test/             content and narration integrity tests
+test/             content and narration checks
 ```
 
 The content pipeline is the part worth explaining. `course-data.js` holds the
-lessons. `buildTimeline(i)` in `lesson-video.js` turns lesson *i* into an ordered
-list of beats, each with narration text, an HTML fragment and a duration.
-`scripts/generate-voiceover-edge.mjs` walks those same beats, generates one MP3
-and one VTT per beat, and writes `audio/voiceover-manifest.json` mapping lesson
-and beat number to a file. At runtime the app reads the manifest: a beat with an
-entry plays real audio, a beat without one falls back to the browser's speech
-synthesis.
+lessons. `buildTimeline(i)` in `lesson-video.js` turns lesson *i* into an
+ordered list of beats, each with narration text, an HTML fragment and a
+duration. `scripts/generate-voiceover-edge.mjs` walks the same beats, makes one
+MP3 and one VTT per beat, and writes `audio/voiceover-manifest.json` mapping
+lesson and beat number to a file. At runtime the app reads that manifest — a
+beat with an entry plays the MP3, one without falls back to browser speech.
 
-That means the content and the audio can drift — add a beat and the narration is
-silently out of date. `test/course.test.mjs` checks the alignment, which is the
-main thing the tests are for.
+The problem with that is the content and the audio can get out of sync. Add a
+beat and the narration is quietly out of date. That's mostly what the tests in
+`test/course.test.mjs` are for.
 
-## Key engineering decisions
+## Decisions I made and why
 
-**No framework, one HTML file.** The deployment target is a support worker
-opening a link on a shared laptop. A build step would have meant a toolchain to
-keep working; a framework would have meant a bundle to download on a slow
-connection. The cost is that `iLearn.dc.html` is large and everything is in one
-scope, which would be the first thing to change if the course grew.
+**No framework, one HTML file.** The person opening this is a support worker
+clicking a link on a shared laptop. A build step means a toolchain I have to
+keep working, and a framework means a bundle to download on whatever connection
+the building has. The cost is that `iLearn.dc.html` is big and everything is in
+one scope, which is the first thing I'd change if the course grew.
 
-**Narration generated ahead of time, not spoken live.** Browser speech synthesis
-varies by device and sounds different on every machine — for a learner following
-along, that inconsistency matters. Pre-generating with a fixed voice
-(`en-GB-SoniaNeural` at -8% speed) gives every learner the same tutor. Edge
-Neural TTS over a paid API because it is free, and this had no budget. The
-generator is idempotent: it skips files that already exist, so a failed run
-resumes rather than regenerating four hundred clips.
+**Narration generated in advance rather than spoken live.** Browser speech
+synthesis sounds different on every machine, which matters when someone is
+following along. Generating it beforehand with one fixed voice
+(`en-GB-SoniaNeural` at -8% speed) means everyone gets the same tutor. I used
+Edge Neural TTS because it's free and there was no budget. The generator skips
+files that already exist, so a run that fails partway resumes instead of
+starting over.
 
-**The UI in the tutor videos is drawn in HTML, not screen-recorded.** Recordings
-go stale the moment an operating system changes, they cannot be captioned
-automatically, and they cannot be edited without re-recording. Building the
-"screens" as HTML fragments means a lesson can be corrected in a text editor.
+**The screens in the videos are HTML, not screen recordings.** Recordings go out
+of date as soon as Windows changes, you can't caption them automatically, and
+fixing one means recording it again. Building them as HTML means I can correct a
+lesson in a text editor.
 
-**Local storage by default.** With no backend, the browser is the only store
-that requires nothing of the deploying service. Supabase sync is opt-in and off
-unless credentials are filled in.
+**localStorage by default.** With no backend, the browser is the only place to
+store things that doesn't ask anything of the service deploying it. The Supabase
+sync is opt-in and off unless someone fills in the config.
 
-## Data protection — read this before real learner data
+## Data protection — please read before using real learner data
 
-Two limits are deliberate for a pilot and are not safe for real data:
+Two things are fine for a pilot and not fine for real data.
 
-**Staff sign-in is not authentication.** Any correctly-formatted email with a
-6-character password opens the staff dashboard. There is no server to check a
-credential against. On a public URL, anyone with the link can open it.
+**The staff sign-in isn't real authentication.** Any properly formatted email
+with a 6-character password gets you into the staff dashboard. There's no server
+to check anything against. If the site is on a public URL, anyone with the link
+can open it.
 
-**The optional Supabase sync cannot be made confidential as built.** This is a
-static site, so the only credential it can carry is the anon key, and that ships
-inside the page to every visitor. The key being public is by design and is not
-itself the problem. The problem is the consequence: the row-level security
-policy has to be permissive enough for the staff dashboard to list every
-learner, which makes it permissive enough for anyone who reads the page source
-to do the same. No amount of policy tuning fixes that while there is no backend
-— it is what "no backend" means.
+**The Supabase sync can't be made private the way it's built.** This is a static
+site, so the only credential it can hold is the anon key, and that key is in the
+page for anyone to read. That part is normal and by design. The problem is what
+follows from it: the row-level security policy has to be open enough for the
+staff dashboard to list every learner, which means it's open enough for anyone
+who reads the page source to do the same. There's no policy that fixes that
+while there's no backend.
 
-`cloud-config.js` therefore ships blank, and the app runs local-only until
-someone fills it in. `SUPABASE-SETUP.sql` sets out the least-permissive policy
-that still works for a pilot, and the shape of the change needed before real
-data: Supabase Auth, a per-row owner, and policies keyed on `auth.uid()`.
+So `cloud-config.js` ships blank and the app stays local-only until someone
+fills it in. `SUPABASE-SETUP.sql` has the most restrictive policy that still
+works for a pilot, plus what would need to change first: Supabase Auth, an owner
+column per row, and policies based on `auth.uid()`.
 
-Until both of those are addressed, pilot with fabricated names and no real
-support notes. This build has not been independently reviewed for security,
-accessibility conformance or data protection.
+Until both of those are sorted, use made-up names and don't put real support
+notes in. This hasn't been reviewed by anyone else for security, accessibility
+or data protection.
 
-## Challenges
+## Problems I ran into
 
-Keeping narration and content in step was the recurring one. The beats are
-derived from the lesson data rather than written separately, which avoids one
-class of drift, but the generated audio is a separate artefact on disk and
-nothing connected the two. Editing a lesson left the old audio in place and the
-app happily played it — the mismatch was invisible until someone listened. That
-is why the manifest exists and why the tests check it.
+Keeping the narration and the content in step was the one that kept coming
+back. The beats come from the lesson data rather than being written separately,
+which helps, but the audio is a separate set of files on disk and nothing linked
+the two. If I edited a lesson the old audio stayed there and the app played it
+happily — I'd only notice by listening. That's why the manifest exists and why
+the tests check it.
 
-Generating four hundred audio files over a network is also its own problem:
-individual calls fail, and a run that restarts from zero each time is unusable.
-The generator writes each file as it goes, treats an existing file over 1KB as
-done, and reports what failed so a re-run only picks up the gaps.
+Generating 400-odd audio files over a network has its own problems. Individual
+calls fail, and something that starts from scratch every time isn't usable. The
+generator writes each file as it goes, treats an existing file over 1KB as done,
+and tells you what failed so a second run only picks up the gaps.
 
 ## What I learned
 
-- Two artefacts that must agree need something that checks they agree. The
-  manifest test is nine lines and catches the bug the whole pipeline is prone to.
-- "It stores data in the browser" and "it is safe to put real people in it" are
-  unrelated statements, and I had written documentation that let the first imply
+- If two things have to agree, something needs to check that they agree. The
+  manifest test is short and it catches the exact bug this pipeline is prone to.
+- "It stores data in the browser" and "it's safe to put real people in it" are
+  two different statements, and I'd written docs that made the first sound like
   the second.
-- Accessibility constrains the architecture, not just the CSS. Captions for every
-  line meant the narration had to be a build artefact rather than something
+- Accessibility changed the architecture, not just the CSS. Wanting captions on
+  every line is why the narration had to be generated in advance instead of
   spoken at runtime.
-- A generator that cannot resume is a generator you stop using.
+- A generator that can't resume is one you stop using.
 
-## Running locally
+## Running it locally
 
-The app uses ES modules, so it needs to be served over HTTP — opening the file
-directly with `file://` blocks the imports.
+It uses ES modules, so it has to be served over HTTP — opening the file with
+`file://` blocks the imports.
 
 ```bash
 npm run serve                       # python3 -m http.server 8000
 ```
 
-Then open http://localhost:8000/iLearn.dc.html.
+Then go to http://localhost:8000/iLearn.dc.html.
 
 Sign in as a learner by typing a name and pressing **Start my course**, or
-switch to **I'm staff** (see the note above about what that does and does not
+switch to **I'm staff** (see the section above about what that does and doesn't
 check).
 
 ```bash
-npm test                            # content and narration integrity
+npm test                            # content and narration checks
 ```
 
 ## Regenerating the narration
 
-Requires Python 3; the script installs `edge-tts` on first run.
+Needs Python 3. The script installs `edge-tts` the first time you run it.
 
 ```bash
-npm run voiceover:free              # generate MP3s + VTT captions + manifest
-npm run voiceover:script            # export the spoken scripts only, no audio
+npm run voiceover:free              # MP3s + captions + manifest
+npm run voiceover:script            # just the scripts, no audio
 ```
 
-Existing files are skipped unless `FORCE=1`. `LESSON=3` limits it to one lesson,
-and `EDGE_VOICE` / `EDGE_RATE` override the voice. Output lands in `audio/` and
-`voiceover-scripts/`.
+It skips files that already exist unless you set `FORCE=1`. `LESSON=3` does one
+lesson, and `EDGE_VOICE` / `EDGE_RATE` change the voice. Output goes to `audio/`
+and `voiceover-scripts/`.
 
-## Future improvements
+## Things I'd do next
 
 - Replace the staff sign-in with real authentication. Everything else in the
-  data-protection section follows from this one change.
-- Split `iLearn.dc.html` into modules; it is past the size where one file helps.
-- Check generated audio against the narration text it came from, so an edited
-  line is detected rather than just an added beat.
-- An accessibility audit against WCAG 2.2 AA by someone who is not me, including
-  screen-reader testing — the current claims are based on my own checks.
+  data protection section follows from that one.
+- Split `iLearn.dc.html` up. It's got too big for one file.
+- Check the generated audio against the text it came from, so an edited line
+  gets caught and not just an added beat.
+- Get someone who isn't me to do an accessibility audit against WCAG 2.2 AA,
+  including screen reader testing. At the moment it's only been checked by me.
