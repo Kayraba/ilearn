@@ -20,7 +20,7 @@ This feeds the methodology, evaluation/reflection sections and the Professionali
 - Python first, Java as a Should requirement, because Python can run in the browser (Pyodide) and Java needs a server sandbox.
 
 **Next**
-- Email Joe about the platform change and book a meeting.
+- Confirm the iLearn decision to Joe in writing (told him at meeting 1).
 - Complete the basic ethics form.
 - Start the literature search from READING-LIST.md.
 

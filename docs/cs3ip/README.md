@@ -12,6 +12,7 @@ Everything to do with the final year project lives in this folder and on the `cs
 | [AI-USE-LOG.md](AI-USE-LOG.md) | Every use of AI tools, for the report's AI disclosure section |
 | [ARCHITECTURE.md](ARCHITECTURE.md) | Planned architecture and component diagram |
 | [READING-LIST.md](READING-LIST.md) | Verified starting references for the background chapter |
-| [MEETING-01.md](MEETING-01.md) | Agenda for the first supervision meeting on the platform change |
+| [MEETING-01.md](MEETING-01.md) | Record of supervision meeting 1 (iLearn as foundation) |
+| [MEETING-02.md](MEETING-02.md) | Agenda for supervision meeting 2 |
 
 Key dates: Term 1 report by 18 Jan 2027 · Report due 22 Apr 2027, 15:00 · Viva 10–21 May 2027.

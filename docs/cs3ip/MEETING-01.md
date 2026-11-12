@@ -1,34 +1,16 @@
-# Supervision meeting 1: platform change
+# Supervision meeting 1
 
-**With:** Joe Yuen · **Date:** _TBC_ · **Prepared by:** Kayraba Tourey
+**With:** Joe Yuen · **Date:** _fill in_
 
-## Progress since the Project Definition Form (14/10/26)
+## Discussed
 
-- Decided to build the tutor on top of iLearn, my existing learning platform (pre-project).
-- Tagged the pre-project state (`baseline-pre-cs3ip`) and wrote a prior-work statement separating existing and new work.
-- Drafted architecture, requirements (MoSCoW), timeline and evaluation outline.
-- Started the reading list (CodeHelp, CS50 AI, CodeAid, Phung et al., VanLehn).
+- Told Joe I'm using iLearn, my existing learning platform, as the foundation for the AI programming tutor.
 
-## Discussion points
+## Joe's response / advice
 
-1. **Is building on iLearn acceptable?** What reuse is acceptable and how should it be documented in the report?
-   (Plan: Prior work subsection + reused/modified/new table + baseline tag.)
-2. **Scope:** Python first (in-browser via Pyodide), Java as a Should requirement (needs a server sandbox). OK?
-3. **Core contribution:** graduated hint ladder plus a deterministic "leak guard" that checks hints don't give away
-   the solution, compared against a plain-LLM baseline. Is this enough of a research/evaluation angle?
-4. **Evaluation:** offline evaluation on 100+ buggy submissions (no participants) plus a small user study (8–15 students,
-   needs ethics). Timing for the ethics application?
-5. **Term 1 report (due 18 Jan):** what level of detail do you expect in the methodology section?
-
-## Proposed next steps (to agree)
-
-- Dec: backend + auth, code activity type, Pyodide runner, first 10 Python exercises.
-- Jan: hint levels 0–2, Term 1 report, ethics application.
-
-## Notes from the meeting
-
--
+- _fill in_
 
 ## Actions
 
-- [ ]
+- [ ] Confirm the iLearn decision in writing (email), including how prior work will be separated from project work.
+- [ ] _add any actions Joe set_
