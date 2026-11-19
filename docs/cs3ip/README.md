@@ -8,6 +8,8 @@ Everything to do with the final year project lives in this folder and on the `cs
 | File | What it is |
 |---|---|
 | [PRIOR-WORK.md](PRIOR-WORK.md) | What iLearn already did before the project started, and the baseline tag |
+| [DECISIONS.md](DECISIONS.md) | Decision log: options considered, reason, consequence |
+| [BOARD.md](BOARD.md) | Kanban board for the current slice |
 | [DIARY.md](DIARY.md) | Dated project diary: work done, decisions, next steps |
 | [AI-USE-LOG.md](AI-USE-LOG.md) | Every use of AI tools, for the report's AI disclosure section |
 | [ARCHITECTURE.md](ARCHITECTURE.md) | Planned architecture and component diagram |

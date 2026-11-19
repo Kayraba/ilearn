@@ -26,6 +26,23 @@ This feeds the methodology, evaluation/reflection sections and the Professionali
 
 ---
 
+## 2026-11-19 (Thu)
+
+**Did**
+- Found the `baseline-pre-cs3ip` tag had not actually reached GitHub; recreated it on `bf63f84`.
+- Added DECISIONS.md (decision log) and BOARD.md (Kanban for the first slice).
+- Planned the first slice: one Python exercise, run in the browser, with authored staged hints, by 21 Dec.
+
+**Decided**
+- Keep project work on the `cs3ip` branch rather than a separate repo (see DECISIONS.md).
+- First slice uses hints I write myself, so later LLM-generated hints have a baseline to compare against.
+
+**Next**
+- Email Joe (reuse boundary, AI-help rules, Java scope).
+- T4: map how iLearn works inside and draw it.
+
+---
+
 ## YYYY-MM-DD
 
 **Did**
